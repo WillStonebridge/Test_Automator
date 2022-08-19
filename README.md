@@ -51,9 +51,5 @@ a.	You may encounter some errors because some software libraries are not importe
 GitHub: https://github.com/WillStonebridge/Test_Automator.git 
 
 Video Demo: https://drive.google.com/file/d/1mc3fS56ZT9nqAQK-zM8oIatq6a5Vxdwe/view?usp=sharing 
- 
-   \------------\
-|===]||||||||||||}====
-   /------------/
 
 Will Stonebridge
